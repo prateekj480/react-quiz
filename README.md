@@ -1,4 +1,4 @@
-#react-quiz
+# react-quiz
 
 Simple quiz format with feautures like question difficulties and topics.
 
